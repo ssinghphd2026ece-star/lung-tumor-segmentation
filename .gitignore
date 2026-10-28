@@ -1,0 +1,14 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+data/
+outputs/
+models/
+*.nii
+*.nii.gz
+*.dcm
+*.pt
+*.pth
+*.ckpt
+.env

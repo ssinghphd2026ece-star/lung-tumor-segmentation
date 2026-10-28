@@ -1,0 +1,10 @@
+numpy>=1.24,<3
+scipy>=1.11
+SimpleITK>=2.3
+pandas>=2.0
+matplotlib>=3.7
+pydicom>=2.4
+rt-utils>=1.2
+PyYAML>=6
+pytest>=7
+scikit-image>=0.21

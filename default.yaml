@@ -1,0 +1,9 @@
+spacing_mm: [1.5, 1.5, 1.5]
+registration_iterations: 150
+bspline_grid_mm: 45.0  # NOT reported in manuscript: sensitivity test required
+seed: 42
+prompt_strategy: P5
+surface_tolerance_mm: 2.0
+models:
+  nninteractive_command: null
+  medsam2_command: null

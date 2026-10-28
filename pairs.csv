@@ -1,0 +1,2 @@
+pair_id,patient_id,pair_type,reference_ct,reference_gtv,target_ct,target_gtv,subset,motion_mm,respiratory_phase
+pair001,subject001,respiratory,data/subject001/ref_ct.nii.gz,data/subject001/ref_gtv.nii.gz,data/subject001/target_ct.nii.gz,data/subject001/target_gtv.nii.gz,development,6.1,50
